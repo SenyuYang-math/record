@@ -2,7 +2,6 @@
   <rect width="670" height="560" fill="#fff"/>
 <title id="title">绕行引理的构造</title>
 <desc id="desc">圈 C 是 L 形区域的边界，它有界的一侧 U 填成浅红，另一侧是 V. 矩形 T 顶在 C 的底边上，二者公共的那一段用红色虚线画出. 把这段边换成 T 的其余三边，得到绿色的圈 C*，它在红色虚线以外与 C 重合. S 位于 V 中，与 T 只相交于一点.</desc>
-<rect width="670" height="560" fill="#fff"/>
 <rect x="10.0" y="65.0" width="420.0" height="162.0" fill="#f6c9c9"/>
 <rect x="10.0" y="227.0" width="126.0" height="162.0" fill="#f6c9c9"/>
 <rect x="136.0" y="227.0" width="168.0" height="162.0" fill="#fff" stroke="#2b4fc0" stroke-width="2"/>
